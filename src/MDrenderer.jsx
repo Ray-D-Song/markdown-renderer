@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactMarkdown from 'react-markdown';
 import gfm from 'remark-gfm'
-import md from './JSbasic.md';
+import md from './Test.md';
 import 'github-markdown-css'
  
 class MDrenderer extends React.PureComponent {
